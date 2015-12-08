@@ -4,3 +4,9 @@ dist
 dist_static
 node_modules
 testinglambda.js
+src
+webpack
+server
+script
+lambda
+config
